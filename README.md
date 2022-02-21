@@ -1,2 +1,2 @@
 # Web Scraping
- data fetching tool from stock echange
+ data fetching tool from Dhaka Stock Exchange
